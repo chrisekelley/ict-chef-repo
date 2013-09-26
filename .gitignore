@@ -1,6 +1,7 @@
 .rake_test_cache
 .DS_Store
 .bundle
+.idea
 
 ###
 # Ignore Chef key files and secrets
